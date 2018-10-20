@@ -2,11 +2,11 @@
 # Muhammad Rohman Irfanuddin
 
 <p>
-    <span class="icons"><a href="https://twitter.com/james_priest1" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i>&nbsp;Twitter</a></span> •
-    <span class="icons"><a href="https://github.com/james-priest" title="GitHub Profile" target="_blank"><i class="fa fa-github fa-lg" aria-hidden="true"></i>&nbsp;GitHub</a></span> •
-    <span class="icons"><a href="https://www.linkedin.com/in/jamespriestdeveloper/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>&nbsp;LinkedIn</a></span> •
-    <span class="icons"><a href="https://codepen.io/james-priest" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i>&nbsp;CodePen</a></span> •
-    <span class="icons"><a href="https://www.freecodecamp.com/james-priest" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i>&nbsp;freeCodeCamp</a></span>
+    <span class="icons"><a href="https://twitter.com/rirfanuddin" title="Twitter Profile" target="_blank"><i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i>&nbsp;Twitter</a></span> •
+    <span class="icons"><a href="https://github.com/rirfanuddin" title="GitHub Profile" target="_blank"><i class="fa fa-github fa-lg" aria-hidden="true"></i>&nbsp;GitHub</a></span> •
+    <span class="icons"><a href="https://www.linkedin.com/in/rirfanuddin/" title="LinkedIn Profile" target="_blank"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i>&nbsp;LinkedIn</a></span> •
+    <span class="icons"><a href="https://codepen.io/rirfanuddin" title="CodePen Profile" target="_blank"><i class="fa fa-codepen fa-lg" aria-hidden="true"></i>&nbsp;CodePen</a></span> •
+    <span class="icons"><a href="https://www.freecodecamp.com/rirfanuddin" title="freeCodeCamp Profile" target="_blank"><i class="fa fa-free-code-camp fa-lg" aria-hidden="true"></i>&nbsp;freeCodeCamp</a></span>
     <!--<span class="icons"><a href="#" title="Not yet, but soon.😊" target="_blank"><i class="fa fa-medium fa-lg" aria-hidden="true"></i>&nbsp;Medium</a></span>-->
 </p>
 
@@ -30,7 +30,7 @@
 
 ## Objective
 
-Full Stack Developer with 20 years of Front End, Database, .NET, & Marketing experience seeking to join a dynamic & forward-thinking company in which to build the next generation of web & mobile apps.
+A student in Universitas Gadjah Mada, proficient in Backend Developer especially in Java.
 
 ---
 
