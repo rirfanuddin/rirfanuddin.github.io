@@ -25,7 +25,6 @@
 1. [Sample Apps](#sample-apps "toc")
 1. [My Story](#my-story "toc")
 -->
----
 
 ## Objective
 
@@ -44,18 +43,16 @@ A student in Universitas Gadjah Mada, proficient in Backend Developer especially
 | Integrated Video Solutions | Usability, Information Architecture, Standards Design | 
 -->
 
-| Languages |               |             |
-| :-------- | :-----------  | :---------  |
-| C++       | HTML5         | R           |
-| Java      | CSS3          |             |
-| PHP       | Visual Studio |             |
-| SQL       | Javascript    |             |
+| Languages |               |               |
+| :-------- | :-----------  | :---------    |
+| C++       | HTML5         | Visual Studio |
+| Java      | CSS3          |               |
+| PHP       | R             |               |
+| SQL       | Javascript    |               |
 
-| Devops    |
-| :-------- |
-| Kibana    |
-| Jenkins   |
-| Git       |
+| Devops    |               |           |
+| :-------- |:--------      | :-------- |
+| Kibana    | Jenkins       | Git       |
 
 | IDEs & Code Environments  |                 |                 |
 | :--------                 | :-----------    | :---------      |
@@ -89,7 +86,7 @@ A student in Universitas Gadjah Mada, proficient in Backend Developer especially
 | 1. [CV. Grafika 27](#cv-grafika-27 "CV. Grafika 27") | 2. [PT. Aristi Jasadata](#pt-aristi-jasadata "PT. Aristi Jasadata") | 3. [PT. Teravin Technovations](#pt-teravin-technovations "PT. Teravin Technovations") |
 
 
-<a name="career--grafika27" id="career--grafika27"></a>
+<a name="career--cv-grafika-27" id="career--cv-grafika-27"></a>
 
 ### CV Grafika 27
 
@@ -121,18 +118,18 @@ GPA 3.52/4.00
 
 ## Training
 
-| Course                      | Completed     | Provider Credential       |
-| :---                        | ---           | --:                       |
-| lorem ipsum                 | October 2017  | Code School (Pluralsight) |
+| Course                            | Completed     | Provider Credential       |
+| :---                              | ---           | --:                       |
+| Introduction to Testing in Java   | Januari 2019  | Pluralsight               |
 
 **[⬆ top](#rirfanuddin "toc")**
 
 ---
 
 ## Certifications
-* Microsoft HTML, CSS3, & JavaScript (2018) - **In process**
-* Google Mobile Web Specialist (2018) - **In process**
-* Java Programming Certification (1997)
+* Cisco Certified Network Associate 1 (2019) - **In process**
+* Responsive Web Design Certification - freecodecamp (2019) **In process** 
+* [3 Days Bootcamp Expert in Node.js & React.js (2018)](https://rirfanuddin.github.io/assets/images/cert/3-days-bootcamp-expert-nodejs-and-reactjs.png)
 
 ---
 
